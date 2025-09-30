@@ -1,3 +1,4 @@
+Проверить прежние ссылки!
  Запуск тестов
 pytest tests/test_customer.py -v \
   --host=localhost \
