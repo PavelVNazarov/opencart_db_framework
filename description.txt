@@ -5,6 +5,9 @@ opencart_db_framework/
 ├── lib/
 │   └── db.py            # Функции для работы с БД
 ├── tests/
+│   ├── conftest.py
+│   ├── test_category.py
+│   ├── test_product.py
 │   └── test_customer.py # Тесты по заданию
 └── requirements.txt     # (опционально) зависимости
 
